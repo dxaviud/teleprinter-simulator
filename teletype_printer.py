@@ -1,7 +1,7 @@
 import time
 import random
 
-time_delay = 0.05
+time_delay = 0.04
 program_info = "This program simulates a teleprinter. It looks cool, but that's pretty much it."
 
 def teletype_print(what_to_print):
